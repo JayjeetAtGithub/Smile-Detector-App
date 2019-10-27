@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1051846737551",
+    "firebase_url": "https://facedetector-f5761.firebaseio.com",
+    "project_id": "facedetector-f5761",
+    "storage_bucket": "facedetector-f5761.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051846737551:android:03a3041b80b55869c4fafa",
+        "android_client_info": {
+          "package_name": "com.jayjeet.realtimefacedetector2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051846737551-35pgpal0oc7ku9e6bmmk42b0ku1f9vuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHB6JklXDLYgYYDvg02Deai8wm0z4zPtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051846737551-35pgpal0oc7ku9e6bmmk42b0ku1f9vuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
